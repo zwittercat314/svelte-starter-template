@@ -1,4 +1,5 @@
 <script lang="js">
+    import Button from './lib/Button.svelte'
     let number = 10
     
 </script>
@@ -12,6 +13,9 @@
     nice web page
 </h2>
 
+<Button name='Boss'>
+
+</Button>
 
 
 <style>
